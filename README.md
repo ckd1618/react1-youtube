@@ -5,3 +5,5 @@ This project creates a youtube clone, once you download please cd into the direc
 
 > npm start
 
+Then visit the following url in your browser to see the site:
+http://localhost:8080/
